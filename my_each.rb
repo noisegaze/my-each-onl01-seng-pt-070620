@@ -6,4 +6,3 @@ def my_each(array)
   end
 end
 
-fruits = ["apples","oranges","peaches","plums"]
